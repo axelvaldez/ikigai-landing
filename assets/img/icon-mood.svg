@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mood@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-full" transform="translate(-402.000000, -63.000000)" fill="#F16143">
+            <g id="header">
+                <path d="M411,63 L411,63 C406.029,63 402,67.029 402,72 L402,72 C402,76.971 406.029,81 411,81 L419.438,81 C419.748,81 420,80.748 420,80.438 L420,72 C420,67.029 415.971,63 411,63" id="icon-mood"></path>
+            </g>
+        </g>
+    </g>
+</svg>
